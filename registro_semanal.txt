@@ -5,4 +5,10 @@ Primera semana (24/03/25 - 01/04/25)
              Enlace: https://www.figma.com/design/0msBHsTWJwd90dbXGHVtPA/Petcare?node-id=0-1&t=ITvgKP47hxNE8JD3-1
 
 
-    
+Segunda semana (02/04/25 - 08/04/25)
+
+    Diseño de la DB
+    Script de la DB y subida a servidor.
+    Enlace a servidor: 
+
+    Comienzo del backend: Modelos
