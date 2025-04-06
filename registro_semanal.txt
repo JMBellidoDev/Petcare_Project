@@ -8,7 +8,11 @@ Primera semana (24/03/25 - 01/04/25)
 Segunda semana (02/04/25 - 08/04/25)
 
     Diseño de la DB
-    Script de la DB y subida a servidor.
-    Enlace a servidor: 
+    Script de la DB y subida a servidor Supabase
 
-    Comienzo del backend: Modelos
+    Comienzo del backend: Entidades y tablas
+    Repositorio para las entidades relacionadas con el login y registro
+
+Tercera semana (09/04/25 - 15/04/25)
+
+

@@ -1,0 +1,10 @@
+fastapi
+pydantic
+pyjwt
+passlib
+python-multipart
+sqlalchemy
+psycopg2-binary
+uvicorn
+twilio
+resend
